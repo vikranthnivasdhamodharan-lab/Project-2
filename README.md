@@ -88,31 +88,30 @@ Following insights can be drawn from the dashboard:
 Total citizenship grants reached approximately 910K.
 Citizenship shows a steady increase over time with noticeable growth after 2000.
 
-![NZ Citizenship Dashboard](https://github-production-user-asset-6210df.s3.amazonaws.com/274370894/577745480-b6472aa4-3748-453d-aeca-7abf3fb8b2cf.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260414%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260414T032016Z&X-Amz-Expires=300&X-Amz-Signature=ed98157917e37024f16dd269aea879baedbe36e1b66d6f66f3265a618c26d180&X-Amz-SignedHeaders=host&response-content-type=image%2Fpng)
-
+![KPI 1](./Total.png)
 
 [2] Peak and Lowest Years
 Highest citizenship grants recorded in 2017.
 Lowest activity observed in 1950, indicating early-stage migration levels.
 
-![](https://github-production-user-asset-6210df.s3.amazonaws.com/274370894/577746442-66c34ebe-15a6-429b-81d9-99beff5be459.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260414%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260414T032221Z&X-Amz-Expires=300&X-Amz-Signature=2d22756799578dcc77a92d34e1d1470c353cef5960b33431bc937aaaed5d85cc&X-Amz-SignedHeaders=host&response-content-type=image%2Fpng)
+![Peak KPI ](./High_Low.png)
 
 [3] Source Country Contribution
 A few countries contribute the majority of citizenship grants.
 Top countries dominate overall distribution, indicating concentrated migration patterns.
 
-![](https://github-production-user-asset-6210df.s3.amazonaws.com/274370894/577746854-1988ecdd-cbec-4fdf-a117-a8b74f2517e2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260414%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260414T032333Z&X-Amz-Expires=300&X-Amz-Signature=47a9c7b1de5fd51e640eabb26cb98f041e67985059f0cb2b77260e291a2300dc&X-Amz-SignedHeaders=host&response-content-type=image%2Fpng)
+![Top 10](./top10.png)
 
 [4] Growth Patterns
 Year-over-year growth shows fluctuations but maintains an overall upward trend. Significant growth periods are visible in recent decades.
 
-![](https://github-production-user-asset-6210df.s3.amazonaws.com/274370894/577747142-12b89e3a-ccec-428c-a637-2802a0ba0ac5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260414%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260414T032425Z&X-Amz-Expires=300&X-Amz-Signature=5d2d3d6e707bc80df055e91fa4e103ccaca4d156d5a2b617e55852c0b90f27c0&X-Amz-SignedHeaders=host&response-content-type=image%2Fpng)
+![YoY Growth](./YoY_Growth.png)
 
 [5] Long-Term Trend
 Cumulative citizenship grants show consistent growth over time.
 Indicates sustained increase in migration and naturalization.
 
-![](https://github-production-user-asset-6210df.s3.amazonaws.com/274370894/577747320-d0208626-6d03-4f37-85f6-74fdce5b8a06.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260414%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260414T032519Z&X-Amz-Expires=300&X-Amz-Signature=2a2686867959049c18ccf993753b0585d829cec4c4ac6c2f999477cb238fc2c2&X-Amz-SignedHeaders=host&response-content-type=image%2Fpng)
+![Cumulative](./Cummulative.png)
 
 
 ## Tools & Technologies
