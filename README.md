@@ -94,7 +94,8 @@ Citizenship shows a steady increase over time with noticeable growth after 2000.
 Highest citizenship grants recorded in 2017.
 Lowest activity observed in 1950, indicating early-stage migration levels.
 
-![Peak KPI ](./highlow.png)
+![Peak KPI](./highlow.png)
+
 
 [3] Source Country Contribution
 A few countries contribute the majority of citizenship grants.
