@@ -52,7 +52,7 @@ Step 13 : Inserted shapes and icons to enhance the visual design and layout.
 
 Step 14 : Published the report to Power BI Service.
 
-![Snapshot of the Dashboard](https://github-production-user-asset-6210df.s3.amazonaws.com/274370894/577747980-f1844d12-1f2f-4f48-a1be-7361faed6118.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260414%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260414T032742Z&X-Amz-Expires=300&X-Amz-Signature=82c68c21e4f7687c48f258cbed435fa149551cec5c52dc4021d20eecd23e9d24&X-Amz-SignedHeaders=host&response-content-type=image%2Fpng)
+![NZ Citizenship Dashboard](./dashboard.png)
 
 ## Data Modeling
 
