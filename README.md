@@ -94,24 +94,24 @@ Citizenship shows a steady increase over time with noticeable growth after 2000.
 Highest citizenship grants recorded in 2017.
 Lowest activity observed in 1950, indicating early-stage migration levels.
 
-![Peak KPI ](./High_Low.png)
+![Peak KPI ](./highlow.png)
 
 [3] Source Country Contribution
 A few countries contribute the majority of citizenship grants.
 Top countries dominate overall distribution, indicating concentrated migration patterns.
 
-![Top 10](./top10.png)
+![Top 10](./Top.png)
 
 [4] Growth Patterns
 Year-over-year growth shows fluctuations but maintains an overall upward trend. Significant growth periods are visible in recent decades.
 
-![YoY Growth](./YoY_Growth.png)
+![YoY Growth](./YoY.png)
 
 [5] Long-Term Trend
 Cumulative citizenship grants show consistent growth over time.
 Indicates sustained increase in migration and naturalization.
 
-![Cumulative](./Cummulative.png)
+![Cumulative](./cummulative.png)
 
 
 ## Tools & Technologies
